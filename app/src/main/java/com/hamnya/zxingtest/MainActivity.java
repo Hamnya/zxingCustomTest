@@ -7,7 +7,7 @@ import android.view.View;
 import com.google.zxing.integration.android.IntentIntegrator;
 
 /**
- * This is barcode scanner Test using zximg library
+ * This is barcode scanner Test using zxing library
  * 출처: https://github.com/journeyapps/zxing-android-embedded/
  * */
 public class MainActivity extends AppCompatActivity {
